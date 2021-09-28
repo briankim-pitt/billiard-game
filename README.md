@@ -7,7 +7,7 @@
 Most of the pool games online offer a similar approach for user interface, specifically how the user will control the angle and power of the cue, where the position of the mouse determines the angle and power. Also, they offer the choice between single and multiplayer. My project would implement these similar core mechanics. To differ from competitors, I will be allowing the user to choose from different difficulty options that limit hints to the angle and power the ball as you increase difficulty, and game modes, such as versing against an opponent, presenting obstacles on the table, and modifying the balls to have different properties.  
   
   
-**Structural Plan: **
+**Structural Plan:**
 - The balls and the cue are organized as objects
 - The different types of balls (Cue ball, Striped and Plain balls) are organized as
 subclasses
